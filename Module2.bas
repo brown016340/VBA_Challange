@@ -145,8 +145,10 @@ Cells(4, 16).NumberFormat = "00"
 'Conditional Formatting to color positive changes green and negative red
 If Cells(n, 9).Value < 0 Then
     Cells(n, 9).Interior.ColorIndex = 3 'Red
+    Cells(n, 10).Interior.ColorIndex = 3 'Red
 ElseIf Cells(n, 9).Value > 0 Then
    Cells(n, 9).Interior.ColorIndex = 4 'green
+   Cells(n, 10).Interior.ColorIndex = 4 'green
 End If
 
 Next n
