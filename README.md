@@ -11,10 +11,6 @@ This "run code" is called in another sub called "SummarizeAllYears" which has th
 
 Running this will get the below result in the proper sheet. Access the spreadsheet here: https://drive.google.com/file/d/1UBLxWyRygqjO1BJcDKf3ukyRQk187ewZ/view?usp=sharing
 
-<pre>
- <code>
-  <a href="[https://github.com/gmarciani](https://github.com/brown016340/VBA_Challenge/blob/main/Module2.bas)">View the code here</a>
- </code>
-</pre>
+[Click here to view the code!](https://github.com/gmarciani](https://github.com/brown016340/VBA_Challenge/blob/main/Module2.bas)
 
 ![image](https://github.com/brown016340/VBA_Challange/assets/142126077/fd57eac7-2c65-496f-94ca-9b1bb0bec15e)
