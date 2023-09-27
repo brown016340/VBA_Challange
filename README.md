@@ -17,4 +17,4 @@ Running this will get the below result in the proper sheet. Access the spreadshe
 ![image](https://github.com/brown016340/VBA_Challange/assets/142126077/fd57eac7-2c65-496f-94ca-9b1bb0bec15e)
 
 
-[Link to file]: https://github.com/gmarciani](https://github.com/brown016340/VBA_Challenge/blob/main/Module2.bas
+[Link to file]: https://github.com/brown016340/VBA_Challenge/blob/main/Module2.bas
