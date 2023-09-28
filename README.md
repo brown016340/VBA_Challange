@@ -9,7 +9,7 @@ One sub labeled "run code" will loop through the given information to add up the
 This "run code" is called in another sub called "SummarizeAllYears" which has the function of looping through all sheets. It will call for "run code" select the next sheet and then loop until all sheets are completed.
 
 
-Running this will get the below result in the proper sheet. Access the spreadsheet here: https://drive.google.com/file/d/1UBLxWyRygqjO1BJcDKf3ukyRQk187ewZ/view?usp=sharing
+Running this will get the below result in the proper sheet. Access the spreadsheet [HERE!][link to sheet]
 
 [View the code here!][link to file]
 
@@ -18,3 +18,4 @@ Running this will get the below result in the proper sheet. Access the spreadshe
 
 
 [Link to file]: https://github.com/brown016340/VBA_Challenge/blob/main/Module2.bas
+[Link to sheet]: https://drive.google.com/file/d/1UBLxWyRygqjO1BJcDKf3ukyRQk187ewZ/view?usp=sharing
